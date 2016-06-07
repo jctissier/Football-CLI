@@ -1,5 +1,6 @@
 # Soccer-Football-League-Standings
-Find up-to-date scores for major soccer/football leagues directly from your terminal. Leagues Available: EPL, Ligua BBVA, Serie A, Ligue 1, Bundesliga
+Find up-to-date scores for major soccer/football leagues directly from your terminal. 
+-Leagues Available: EPL, Ligua BBVA, Serie A, Ligue 1, Bundesliga
 
 #Functionalities
 Find standings for major soccer/football leagues directly from your terminal. More functionalities to come soon such as livescores, highlights, live commentary, roster, etc..
