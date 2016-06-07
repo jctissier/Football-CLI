@@ -6,3 +6,9 @@ Find standings for major soccer/football leagues directly from your terminal. Mo
 
 ![alt text] (/Documentation/League_Standings.gif)
 
+#Modules to Install:
+Open Mac terminal and just write the 'import statement' below
+  2. termcolor          'pip install termcolor' 
+  3. lxml               'pip install lxml'   
+
+Feel free to contribute and message me if you have any problems/questions!
