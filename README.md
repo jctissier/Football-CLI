@@ -4,7 +4,8 @@ Find up-to-date scores for major soccer/football leagues directly from your term
  >Leagues Available: EPL, Ligua BBVA, Serie A, Ligue 1, Bundesliga
 
 #Functionalities
-Find standings for major soccer/football leagues directly from your terminal. More functionalities to come soon such as livescores, highlights, live commentary, roster, etc..
+Find standings for major soccer/football leagues directly from your terminal. 
+*More functionalities to come soon such as livescores, highlights, live commentary, roster, etc..*
 
 ![alt text] (/Documentation/League_Standings.gif)
 
