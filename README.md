@@ -13,7 +13,6 @@ Open Mac terminal and just write the 'import statement' below
   - Pip
 ```
 $sudo easy_install pip
-
 ```
   - Termcolor
 ```
