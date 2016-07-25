@@ -1,4 +1,4 @@
-#Football Command Line Interface App
+#Everything you need for Football right in your terminal
 Find up-to-date scores for major soccer/football leagues directly from your terminal. 
  
  >Leagues Available: EPL, Ligua BBVA, Serie A, Ligue 1, Bundesliga
