@@ -27,5 +27,5 @@ $pip install lxml
 
 Feel free to contribute and message me if you have any problems/questions!
 ```
-No API was used, all data is scraped from Livescore.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
+No API! All data is scraped from Livescore.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
 ```
