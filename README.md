@@ -26,6 +26,10 @@ $pip install termcolor
 ```
 $pip install lxml
 ```
+-Praw
+```
+$pip install praw
+```
 
 Feel free to contribute and message me if you have any problems/questions!
 ```
