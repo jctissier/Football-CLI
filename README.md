@@ -1,4 +1,4 @@
-#Live Football Stats & Game 
+#Live Football Stats & Game Links
 Find up-to-date scores for major soccer/football leagues directly from your terminal. 
  
  >Leagues Available: EPL, Liga BBVA, Serie A, Ligue 1, Bundesliga (Add more to your liking!)
