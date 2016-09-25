@@ -79,8 +79,8 @@ List of highlights from all competitions:
 Football-CLI runs the program directly from your terminal
 1. Open your terminal and type:
 ```
-pip install Football-CLI       #pip3 install Football-CLI   <- also works
-Football-CLI                   #This will automatically run the program!
+pip install Football-CLI          #pip3 install Football-CLI   <- also works
+Football-CLI                      #This will automatically run the program!
 ```
 
 
