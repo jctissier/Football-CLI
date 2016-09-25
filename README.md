@@ -1,9 +1,10 @@
 #Live Football Stats & Game Links
-Find up-to-date scores for major soccer/football leagues directly from your terminal. 
+Python web-scraper that automatically retrieves the latest stats for major Football leagues and working streams for live games and game highlights directly from your terminal.  
  
- >Leagues Available: EPL, Liga BBVA, Serie A, Ligue 1, Bundesliga (Add more to your liking!)
- 
- >To be added: Champions League, Europa League, etc..
+ >Leagues Available: Premier League, La Liga, Serie A, Ligue 1, Bundesliga (Add more to your liking!)
+ >Competitions: Champions League, Europa League
+ >Stats: Top Scorers (All leagues & competitions)
+ >Live streams & Full game highlights
 
 #Functionalities
 Find standings for major soccer/football leagues directly from your terminal. 
