@@ -86,11 +86,16 @@ $Football-CLI                      #This will automatically run the program!
 
 
 ###Dependencies
-If this doesn't work for you yet, I'm working on making the deployment as user friendly as possible, check back in a day or so. Thanks!
-
-Packages: .....
-
-
+This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2
+**4 main packages are used:**
+  1. Praw
+    ⋅⋅*Used to scrape Reddit, Used to find links for Live Streams & Highlights
+  2. Requests
+    ⋅⋅*Use with Beautiful Soup to scrape ca.soccerway.com website
+  3. Termcolor
+    ⋅⋅*Used to print text in color (make it nice to look at)
+  4. Beautifulsoup4
+    ⋅⋅*Fast way of webscraping and printing data to the terminal
 
 ##Final Notes [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/Football-CLI/blob/master/LICENSE)
 **Author:** Jean-Claude Tissier<br/>
