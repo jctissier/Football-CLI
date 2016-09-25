@@ -32,7 +32,7 @@ class MainMenu:
         self.choose_menu()
 
     def choose_menu(self):
-        menu = colored("\nMain Menu:\n[1]Standings  [2]Match Scores  [3]Top Scorers & Assists  "
+        menu = colored("\nMain Menu:\n[1]Standings  [2]Match Scores  [3]Top Scorers  "
                        "[4]Champions League  [5]Live Streams  [6]Highlights  [7]Exit\n", 'red', attrs=['bold'])
         choose_menu = input(menu)
         menu_guard = ["1", "2", "3", "4", "5", "6", "7"]
@@ -110,6 +110,7 @@ class ChooseMenu:
         elif class_name == "MatchScores":
             cprint("Retrieving Match Scores and Details for " + league_name + "...\n", 'yellow')
             MatchScores.match_details(self, index=0, league_url= scraper_url + league_url, league_name =league_name)
+            MainMenu.choose_menu(self)
         elif class_name == "TopStats":
             TopStats.top_scorers(self, scraper_url + league_url, league_name)
             MainMenu.choose_menu(self)
