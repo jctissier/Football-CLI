@@ -6,7 +6,7 @@ Python web-scraper that automatically retrieves the latest stats for major Footb
  >Stats: Top Scorers (All leagues & competitions) <br/>
  >Live streams & Full game highlights
 
-#Functionalities
+#What It Does
 Find standings for major soccer/football leagues directly from your terminal. 
 
 *More functionalities to come soon such as livescores, highlights, live commentary, roster, etc..*
