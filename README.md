@@ -76,6 +76,7 @@ List of highlights from all competitions:
 
 ##How To Install?
 **Use pip to install**</br>
+<br/>
 Football-CLI runs the program directly from your terminal<br/>
 1. Open your terminal and type:
 ```
