@@ -86,7 +86,7 @@ $Football-CLI                      #This will automatically run the program!
 
 
 ###Dependencies
-This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2
+This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2<br/>
 **4 main packages are used:**
   1. Praw<br/>
     <ol><li>Used to scrape Reddit, Used to find links for Live Streams and Highlights</ol></li>
