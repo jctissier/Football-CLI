@@ -79,7 +79,7 @@ List of highlights from all competitions:
 ###Dependencies
 ```
 pip3 install Football-CLI
-python3 Football-CLI
+Football-CLI
 ```
 If this doesn't work for you yet, I'm working on making the deployment as user friendly as possible, check back in a day or so. Thanks!
 
