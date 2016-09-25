@@ -75,12 +75,16 @@ List of highlights from all competitions:
 ![alt text](https://github.com/jctissier/Football-CLI/blob/master/Documentation/menu2.png "Main Menu")
 
 ##How To Install?
+**Use pip to install**</br>
+Football-CLI runs the program directly from your terminal
 
-###Dependencies
 ```
 pip3 install Football-CLI
 Football-CLI
 ```
+
+
+###Dependencies
 If this doesn't work for you yet, I'm working on making the deployment as user friendly as possible, check back in a day or so. Thanks!
 
 Packages: .....
