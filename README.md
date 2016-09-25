@@ -32,7 +32,7 @@ $pip install lxml
 $pip install praw
 ```
 
-Feel free to contribute and message me if you have any problems/questions!
+Feel free to contribute or request new features and leave an issue if you have any problems/questions!
 ```
-No API! All data is scraped from ca.soccerway.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
+No API needed! All data is scraped from ca.soccerway.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
 ```
