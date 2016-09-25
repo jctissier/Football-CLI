@@ -80,8 +80,8 @@ Football-CLI runs the program directly from your terminal<br/>
 <br/>
 1. Open your terminal and type:
 ```
-pip install Football-CLI          #pip3 install Football-CLI   <- also works
-Football-CLI                      #This will automatically run the program!
+$pip install Football-CLI          #pip3 install Football-CLI   <- also works
+$Football-CLI                      #This will automatically run the program!
 ```
 
 
