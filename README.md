@@ -89,8 +89,6 @@ If this doesn't work for you yet, I'm working on making the deployment as user f
 
 Packages: .....
 
-##My Setup
-Alfred + workflow
 
 
 ##Final Notes [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/Football-CLI/blob/master/LICENSE)
