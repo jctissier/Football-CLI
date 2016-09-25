@@ -1,4 +1,4 @@
-#Everything you need for Football right in your terminal
+#Live Football Stats & Game 
 Find up-to-date scores for major soccer/football leagues directly from your terminal. 
  
  >Leagues Available: EPL, Liga BBVA, Serie A, Ligue 1, Bundesliga (Add more to your liking!)
@@ -10,9 +10,9 @@ Find standings for major soccer/football leagues directly from your terminal.
 
 *More functionalities to come soon such as livescores, highlights, live commentary, roster, etc..*
 
-![alt text] (/Documentation/League_Standings.gif)
+![alt text] (/Documentation/MatchScores.gif)
 
-#Modules to Install:
+#How to install:
 Open Mac terminal and just write the 'import statement' below
   - Pip
 ```
@@ -26,12 +26,12 @@ $pip install termcolor
 ```
 $pip install lxml
 ```
--Praw
+- Praw
 ```
 $pip install praw
 ```
 
 Feel free to contribute and message me if you have any problems/questions!
 ```
-No API! All data is scraped from Livescore.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
+No API! All data is scraped from ca.soccerway.com and Subreddits, 'soccerstreams' & 'footballhighlights'. 
 ```
