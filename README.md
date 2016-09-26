@@ -82,7 +82,8 @@ Football-CLI runs the program directly from your terminal<br/>
 $pip install Football-CLI          #pip3 install Football-CLI   <- also works
 $Football-CLI                      #This will automatically run the program!
 ```
-
+<br/>
+2.➡️ Download Latest Package Release: [Football-CLI-1.0.1](https://pypi.python.org/pypi/Football-CLI/1.0.1)
 
 ###Dependencies
 This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2<br/>
