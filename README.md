@@ -1,5 +1,5 @@
 #:soccer:Live Football Stats & Game Links:tv: [![Watch How it works!](https://github.com/jctissier/Football-CLI/blob/master/Documentation/watch.png)](#standings)
-[![version 1.0.1](http://b.repl.ca/v1/version_-1.0.1-orange.png)](https://pypi.python.org/pypi/Football-CLI/1.0.1)
+[![version 1.1.0](http://b.repl.ca/v1/version_-1.1.0-orange.png)](https://pypi.python.org/pypi/Football-CLI/1.0.1)
 
 Python web-scraper that automatically retrieves the latest stats for major Football leagues and working streams for live games and game highlights directly from your terminal.  
  
