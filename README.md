@@ -16,7 +16,6 @@ Python web-scraper that automatically retrieves the latest stats for major Footb
   * [How it works](#how-it-works)
 * [How to install](#how-to-install)
   * [Dependencies](#dependencies)
-* [My Setup](#my-setup)
  
 ##What It Does
 
