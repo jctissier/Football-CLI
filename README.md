@@ -99,7 +99,9 @@ This CLI is for Python 3 and Mac OS X platform, will work on making it available
     <ol><li>Used to print text in color (make it nice to look at)</li></ol>
   4. Beautifulsoup4<br/>
     <ol><li>Fast way of webscraping and printing data to the terminal</ol></li>
-
+  5. Lxml<br/>
+    <ol><li>Fast and easy-to-use library for processing HTML</ol></li>
+    
 ##Final Notes [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/Football-CLI/blob/master/LICENSE)
 **Author:** Jean-Claude Tissier<br/>
 Feel free to contribute or request new features and leave an issue if you have any problems/questions!
