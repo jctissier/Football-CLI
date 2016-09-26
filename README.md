@@ -1,5 +1,5 @@
 #:soccer:Live Football Stats & Game Links:tv: [![Watch How it works!](https://github.com/jctissier/Football-CLI/blob/master/Documentation/watch.png)](#standings)
-[![version 1.1.2](http://b.repl.ca/v1/version_-1.1.2-orange.png)](https://pypi.python.org/pypi/Football-CLI/1.1.2)
+[![version 1.1.4](http://b.repl.ca/v1/version_-1.1.4-orange.png)](https://pypi.python.org/pypi/Football-CLI/)
 
 Python web-scraper that automatically retrieves the latest stats for major Football leagues and working streams for live games and game highlights directly from your terminal.  
  
@@ -85,7 +85,7 @@ $pip install Football-CLI          #pip3 install Football-CLI   <- also works
 $Football-CLI                      #This will automatically run the program!
 ```
 <br/>
-➡️ Link to Latest Package Release on Pypi: [Football-CLI-1.1.1](https://pypi.python.org/pypi/Football-CLI/1.1.1)
+➡️ Link to Latest Package Release on Pypi: [Football-CLI-1.1.4](https://pypi.python.org/pypi/Football-CLI/1.1.4)
 
 ###Dependencies
 This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2<br/>
