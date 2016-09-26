@@ -11,13 +11,25 @@ Python web-scraper that automatically retrieves the latest stats for major Footb
 ##Who Is It For?
 **Anyone who wants to find Football information quickly, without a hassle and most importantly without ADs!**:thumbsup: <br/> I always like to stay up to date with game scores, details and watching highlights but I hate having to search through a lot of different websites to find what I need.
 
+##How To Install?
+**Use pip to install**</br>
+Football-CLI runs the program directly from your terminal<br/>
+<br/>
+1. Open your terminal and type:
+```
+$pip install Football-CLI          #pip3 install Football-CLI   <- also works
+$Football-CLI                      #This will automatically run the program!
+```
+<br/>
+➡️ Link to Latest Package Release on Pypi: [Football-CLI-1.1.4](https://pypi.python.org/pypi/Football-CLI/1.1.4)
+
 ##Content
 * [Description](#soccerlive-football-stats--game-linkstv-)
+* [How to install](#how-to-install)
 * [Functionalities](#what-it-does)
   * [Standings](#standings), [Match Scores](#match-scores), [Top Scorers](#top-scorers), [Champions League](#champions-league), [Live Streams](#live-streams), [Highlights](#highlights)
   * [How it works](#how-it-works)
-* [How to install](#how-to-install)
-  * [Dependencies](#dependencies)
+* [Dependencies](#dependencies)
  
 ##What It Does
 
@@ -75,19 +87,7 @@ List of highlights from all competitions:
   <i>You may only choose the numbers assigned in the menu, otherwise the menu will reload</i>
 ![alt text](https://github.com/jctissier/Football-CLI/blob/master/Documentation/menu2.png "Main Menu")
 
-##How To Install?
-**Use pip to install**</br>
-Football-CLI runs the program directly from your terminal<br/>
-<br/>
-1. Open your terminal and type:
-```
-$pip install Football-CLI          #pip3 install Football-CLI   <- also works
-$Football-CLI                      #This will automatically run the program!
-```
-<br/>
-➡️ Link to Latest Package Release on Pypi: [Football-CLI-1.1.4](https://pypi.python.org/pypi/Football-CLI/1.1.4)
-
-###Dependencies
+##Dependencies
 This CLI is for Python 3 and Mac OS X platform, will work on making it available for Windows & Linux as well as Python 2<br/>
 <br/>
 **5 main packages are used:**
