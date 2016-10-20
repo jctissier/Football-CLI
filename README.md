@@ -17,7 +17,7 @@ Football-CLI runs the program directly from your terminal<br/>
 <br/>
 1. Open your terminal and type:
 ```
-$pip install Football-CLI                  #pip3 install Football-CLI   <- also works
+$pip install Football-CLI                  #pip3 install Football-CLI   <-use this if your default framework is python 2
 $Football-CLI                              #This will automatically run the program!
 ```
 <br/>
@@ -27,7 +27,7 @@ $Football-CLI                              #This will automatically run the prog
 * [Description](#soccerlive-football-stats--game-linkstv-)
 * [How to install](#how-to-install)
 * [Functionalities](#what-it-does)
-  * [Standings](#standings), [Match Scores](#match-scores), [Top Scorers](#top-scorers), [Champions League](#champions-league), [Live Streams](#live-streams), [Highlights](#highlights)
+  * [Standings](#standings), [Match Scores](#match-scores), [Top Scorers](#top-scorers), [Champions League](#champions-league), [Live Streams](#live-streams), [Highlights](#highlights), [Fixtures](#fixtures), [Live Stats](#live-stats)
   * [How it works](#how-it-works)
 * [Dependencies](#dependencies)
  
