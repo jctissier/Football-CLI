@@ -54,6 +54,10 @@ class main:
         elif choose_menu == "6":
             Highlights()
         elif choose_menu == "7":
+            LiveStats.live_stats(self)
+        elif choose_menu == "8":
+            Fixtures.fixtures_menu(self)
+        elif choose_menu == "9":
             cprint("Bye", 'yellow')
 
 
