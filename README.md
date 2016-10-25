@@ -106,6 +106,6 @@ This CLI is for Python 3 and Mac OS X platform, will work on making it available
 **Author:** Jean-Claude Tissier<br/>
 Feel free to contribute or request new features and leave an issue if you have any problems/questions!
 
-__No API needed! All data is scraped from [ca.soccerway.com](www.ca.soccerway.com), [The Guardian](https://www.theguardian.com) and Subreddits, [Soccerstreams](https://www.reddit.com/r/soccerstreams/) & [Footballhighlights](https://www.reddit.com/r/footballhighlights/).__
+__No API Key needed! All data is scraped from [ca.soccerway.com](www.ca.soccerway.com), [The Guardian](https://www.theguardian.com) and Subreddits, [Soccerstreams](https://www.reddit.com/r/soccerstreams/) & [Footballhighlights](https://www.reddit.com/r/footballhighlights/).__
 
 
