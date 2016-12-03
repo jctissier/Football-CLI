@@ -6,7 +6,7 @@ from termcolor import colored, cprint
 import praw
 import re
 
-# Get rid of warning messages
+# Get rid of deprecated warning messages
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # Top League URLs
